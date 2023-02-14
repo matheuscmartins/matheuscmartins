@@ -1,6 +1,6 @@
 ### Olá, me chamo Matheus Cruz, sou formado em Analise e Desenvolvimento de Sistemas. 
 
-🌱 Atualmente estou estudando Java Spring Boot.
+🌱 Atualmente estou estudando Java Spring Boot, Docker e Angular.
  
  <div>
  <a href="https://github.com/matheuscmartins">
