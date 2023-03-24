@@ -1,8 +1,8 @@
 <div align='center'>
 Bem vindo ao meu GitHub / Welcome to my GitHub.
 </div><br>
-## "Olá Mundo", me chamo Matheus Cruz, sou bacharel em Sistemas de Informação.<br>
-## "Hello World", my name is Matheus Cruz, I have a bachelor's degree in Information Systems.
+ "Olá Mundo" :wave:, me chamo Matheus Cruz, sou bacharel em Sistemas de Informação.<br>
+ "Hello World" :wave:, my name is Matheus Cruz, I have a bachelor's degree in Information Systems.
 
 
 🌱 Atualmente estou estudando Java Spring Boot, Docker e Angular.<br>
