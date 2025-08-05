@@ -31,7 +31,7 @@ Bem vindo ao meu GitHub / Welcome to my GitHub.
 
 <div> <br> <br><br>
   Meu Linkedin:<br>
-<a href= "https://www.linkedin.com/in/matheus-cruz-martins-243lssl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a><br>
+<a href= "[https://www.linkedin.com/in/matheus-cruz-martins-243lssl](https://www.linkedin.com/in/matheuscruzmartins)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a><br>
 
 
 
