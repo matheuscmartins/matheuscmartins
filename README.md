@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Matheus Cruz Martins</h1>
 
 <p align="center">
-  Desenvolvedor Backend / Fullstack • Java • Spring Boot • Angular
+  Desenvolvedor Backend / Fullstack • Java • Spring Boot • Angular - • C# .net • Vue.Js
 </p>
 
 <p align="center">
