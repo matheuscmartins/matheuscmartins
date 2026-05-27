@@ -71,13 +71,12 @@ Sou bacharel em Sistemas de Informação com foco em desenvolvimento de software
 
 ## 📌 Projetos em destaque
 
-🔹 Em breve (ou adicione seus principais projetos aqui)
 
 Exemplo:
 
 - 📊 Sistema de dashboards com Grafana integrado via API
-- ⚙️ API REST com Spring Boot para processamento de dados industriais
-- 🌐 Aplicação frontend Angular com consumo de APIs REST
+- ⚙️ API REST com Java, Spring Boot e C# para processamento de dados industriais
+- 🌐 Aplicação frontend Angular e Vue.js com consumo de APIs REST
 
 ---
 
@@ -86,7 +85,8 @@ Exemplo:
 - ☕ Java avançado + boas práticas
 - 🐳 Docker
 - 🅰️ Angular (arquitetura e performance)
-
+- 🌐 Vue.js
+- Grafana para dashboards Interativos
 ---
 
 ## 📬 Contato
